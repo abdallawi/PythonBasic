@@ -1,0 +1,15 @@
+This file is meant as an intro into this package.
+
+In the python-standard-lib we took a look at the different useful modules included in the python standard library.
+Even though this library is very comprehensive, it doesn't have everything we need when building a real world application.
+
+That's where Pypi will come in useful, you can see it as a package manager [just like npm for JS developers].
+These packages are written by people like you and me.
+
+link: https://pypi.org
+
+Pretty much everything you can come up with or need, there will be a project on the site.
+
+Beware: Not all packages are working or complete, google it or take some time to search for a better package on there.
+
+We are going to learn how to install these packages.

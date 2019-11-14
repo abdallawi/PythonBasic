@@ -1,0 +1,34 @@
+In this package we are going to take a look at what API [Application Programming Interfaces] are.
+
+We will use the most popular packages and we will get over the basics of that API
+
+Now what are those API, I keep hearing about.
+
+Allot of big websites allow the world to access their data trough APIs.
+These APIs are endpoints that are publicly accessible through their url's just like the websites them self.
+
+
+
+        ###############################################################################################
+
+                    ####    #    ####    ####    #       ##     #   ##   ##    ####    ###
+                    #   #   #    #       #       #      #  #    #   # # # #    #       #  #
+                    #   #   #    ####    #       #      #  #    #   #  #  #    ####    ###
+                    #   #   #       #    #       #      ####    #   #     #    #       #  #
+                    ####    #    ####    ####    ####   #  #    #   #     #    ####    #  #
+
+        ###############################################################################################
+
+
+It is not said that every piece of code in this package will work on your machine,
+You know that old wife's tale "It runs on my machine", well there is a reason why people keep yelling it.
+
+The reason why i'm bothering you is simple you see, there could be code not running and the reason could be anything:
+
+* Witchcraft
+* Black voodoo magic
+* Hungry children
+* ...
+* literally anything...
+
+In order to resolve this/these issues you should try using google fu on your error messages.
